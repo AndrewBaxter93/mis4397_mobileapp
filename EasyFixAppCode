@@ -1,0 +1,172 @@
+EasyFixApp Home Screen Code:
+
+<html>
+<head>
+<body bgcolor="6699FF">
+
+
+<div class="page-header">
+  <h1><center>EASY FIX</h1>
+</div>
+<center><img src="EasyFixLogo.gif" alt="Logo" width="150" height="150">
+
+<center><div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Let's fix your car! <span class="caret"></span>
+  </button>
+</div>
+
+</body>
+</head>
+</html>
+
+EasyFixApp Categories Screen Code:
+<html>
+<head>
+  <h1><center>CATEGORIES</h1>
+</div>
+<body bgcolor="6699FF">
+<center><font size="5">Choose from the 3 categories</font>
+<center><font size="2">Technical Issues</font>
+<center><font size="2">Physical Issues</font>
+<center><font size="2">Audio Issues</font>
+<center><ol class="breadcrumb">
+<a href="#">Home</a>|
+<a class="active">Categories</a>
+</ol>
+</body>
+</head>
+</html>
+EasyFixApp Technical Issues Screen Code:
+<html>
+<head>
+<body bgcolor="6699FF">
+<div class="page-header">
+ <center><h1>Technical Issues</h1>
+</div>
+<center><font size="5">Find an easy fix from the drop down below.</font>
+<center><div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Select issue<span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+  </ul>
+</div>
+<div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Submit<span class="caret"></span>
+  </button>
+</div>
+<font size="5"><b>We couldn't help?</b></font>
+<div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    LEAVE FEEDBACK<span class="caret"></span>
+  </button>
+</div>
+
+
+<center><ol class="breadcrumb">
+<a href="#">Home</a>|
+<a href="#">Categories</a>|
+<a class="active">Issue</a>
+</ol>
+
+</body>
+</head>
+</html>
+
+EasyFixApp Physical Issues Screen Code:
+<html>
+<head>
+<body bgcolor="6699FF">
+<div class="page-header">
+ <center><h1>Physical Issues</h1>
+</div>
+<center><font size="5">Find an easy fix from the drop down below.</font>
+<center><div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Select issue<span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+  </ul>
+</div>
+<div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Submit<span class="caret"></span>
+  </button>
+</div>
+<font size="5"><b>We couldn't help?</b></font>
+<div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    LEAVE FEEDBACK<span class="caret"></span>
+  </button>
+</div>
+
+
+<center><ol class="breadcrumb">
+<a href="#">Home</a>|
+<a href="#">Categories</a>|
+<a class="active">Issue</a>
+</ol>
+
+</body>
+</head>
+</html>
+
+EasyFixApp Audio Issues Screen Code:
+<html>
+<head>
+<body bgcolor="6699FF">
+<div class="page-header">
+ <center><h1>Audio Issues</h1>
+</div>
+<center><font size="5">Find an easy fix from the drop down below.</font>
+<center><div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Select issue<span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+  </ul>
+</div>
+<div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Submit<span class="caret"></span>
+  </button>
+</div>
+<font size="5"><b>We couldn't help?</b></font>
+<div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    LEAVE FEEDBACK<span class="caret"></span>
+  </button>
+</div>
+
+<center><ol class="breadcrumb">
+<a href="#">Home</a>|
+<a href="#">Categories</a>|
+<a class="active">Issue</a>
+</ol>
+
+</body>
+</head>
+</html>
+
+EasyFIxApp Steps Screen Code:
+<html>
+<head>
+<body bgcolor="6699FF">
+<div class="page-header">
+ <center><h1>Oil Change</h1>
+</div>
+
+<center><font size="3">We will import steps on how to fix Oil Change, for example, in this area</font>
+
+<center><ol class="breadcrumb">
+<a href="#">Home</a>|
+<a href="#">Categories</a>|
+<a href="#">Issue</a>|
+<a class="active">Steps</a>
+</ol>
+
+</body>
+</head>
+</html>
