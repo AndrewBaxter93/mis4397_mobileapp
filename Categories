@@ -1,0 +1,16 @@
+<html>
+<head>
+  <h1><center>CATEGORIES</h1>
+</div>
+<body bgcolor="6699FF">
+<center><font size="5">Choose from the 3 categories</font>
+<center><font size="2">Technical Issues</font>
+<center><font size="2">Physical Issues</font>
+<center><font size="2">Audio Issues</font>
+<center><ol class="breadcrumb">
+<a href="#">Home</a>|
+<a class="active">Categories</a>
+</ol>
+</body>
+</head>
+</html>
