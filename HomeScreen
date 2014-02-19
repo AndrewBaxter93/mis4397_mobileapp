@@ -1,0 +1,19 @@
+<html>
+<head>
+<body bgcolor="6699FF">
+
+
+<div class="page-header">
+  <h1><center>EASY FIX</h1>
+</div>
+<center><img src="EasyFixLogo.gif" alt="Logo" width="150" height="150">
+
+<center><div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Let's fix your car! <span class="caret"></span>
+  </button>
+</div>
+
+</body>
+</head>
+</html>
