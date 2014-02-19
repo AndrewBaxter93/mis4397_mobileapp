@@ -1,0 +1,35 @@
+<html>
+<head>
+<body bgcolor="6699FF">
+<div class="page-header">
+ <center><h1>Audio Issues</h1>
+</div>
+<center><font size="5">Find an easy fix from the drop down below.</font>
+<center><div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Select issue<span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+  </ul>
+</div>
+<div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    Submit<span class="caret"></span>
+  </button>
+</div>
+<font size="5"><b>We couldn't help?</b></font>
+<div class="btn-group">
+  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+    LEAVE FEEDBACK<span class="caret"></span>
+  </button>
+</div>
+
+<center><ol class="breadcrumb">
+<a href="#">Home</a>|
+<a href="#">Categories</a>|
+<a class="active">Issue</a>
+</ol>
+
+</body>
+</head>
+</html>
