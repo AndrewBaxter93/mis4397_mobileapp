@@ -1,36 +1,36 @@
+<!DOCTYPE html>
 <html>
 <head>
-<body bgcolor="6699FF">
-<div class="page-header">
- <center><h1>Technical Issues</h1>
-</div>
-<center><font size="5">Find an easy fix from the drop down below.</font>
-<center><div class="btn-group">
-  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
-    Select issue<span class="caret"></span>
-  </button>
-  <ul class="dropdown-menu">
-  </ul>
-</div>
-<div class="btn-group">
-  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
-    Submit<span class="caret"></span>
-  </button>
-</div>
-<font size="5"><b>We couldn't help?</b></font>
-<div class="btn-group">
-  <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
-    LEAVE FEEDBACK<span class="caret"></span>
-  </button>
-</div>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<script src="js/bootstrap.min.js"></script>
+<h3><center>Technical Issues</h3>
+<center><select name="TechIssues">
+<option [value="somevalue 1"]>Technical Issue 1
+<option [value="somevalue 2"]>Technical Issue 2
+<option [value="somevalue 3"] selected>Technical Issue 3
+<option [value="somevalue 4"]>Technical Issue 4
+</select>
+<p><center><button type="button" class="btn btn-default btn-lg">
+  <span class="glyphicon glyphicon-ok"></span> SUBMIT
+</button>
 
+<p><h4><b><center>We couldn't help you?</b></h4></p>
+<p><center><button type="button" class="btn btn-default btn-lg">
+  <span class="glyphicon glyphicon-plus"></span> LEAVE FEEDBACK
+</button>
+<!--Input link to Categories screen below-->
 
-<center><ol class="breadcrumb">
-<a href="#">Home</a>|
-<a href="#">Categories</a>|
-<a class="active">Issue</a>
-</ol>
+<center><button type="button" class="btn btn-default btn-lg">
+  <span class="glyphicon glyphicon-arrow-left"></span>
+</button>
+<!--Input link to home screen below-->
+<button type="button" class="btn btn-default btn-lg">
+  <span class="glyphicon glyphicon-home"></span>
+</button>
 
 </body>
-</head>
 </html>
