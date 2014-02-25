@@ -1,16 +1,29 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <h1><center>CATEGORIES</h1>
-</div>
-<body bgcolor="6699FF">
-<center><font size="5">Choose from the 3 categories</font>
-<center><font size="2">Technical Issues</font>
-<center><font size="2">Physical Issues</font>
-<center><font size="2">Audio Issues</font>
-<center><ol class="breadcrumb">
-<a href="#">Home</a>|
-<a class="active">Categories</a>
-</ol>
-</body>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
 </head>
+<body>
+<script src="js/bootstrap.min.js"></script>
+
+
+<h3><center>Categories</h3>
+
+
+<p><center><span class="glyphicon glyphicon-cog"></span><a href=""> Technical Issues</a></p>
+<p><center>"How it works"</p>
+
+<p><center><span class="glyphicon glyphicon-picture"></span><a href=""> Physical Issues</a></p>
+<p><center>"How it looks"</p>
+
+<p><center><span class="glyphicon glyphicon-volume-up"></span><a href=""> Audio Issues</a></p>
+<p><center>"How it sounds"</p>
+
+<!--Input link to home screen below-->
+<center><button type="button" class="btn btn-default btn-lg">
+  <span class="glyphicon glyphicon-home"></span>
+</button>
+</body>
 </html>
