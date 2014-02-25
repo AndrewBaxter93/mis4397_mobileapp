@@ -1,19 +1,31 @@
+<!DOCTYPE html>
 <html>
 <head>
-<body bgcolor="6699FF">
-<div class="page-header">
- <center><h1>Oil Change</h1>
-</div>
-
-<center><font size="3">We will import steps on how to fix Oil Change, for example, in this area</font>
-
-<center><ol class="breadcrumb">
-<a href="#">Home</a>|
-<a href="#">Categories</a>|
-<a href="#">Issue</a>|
-<a class="active">Steps</a>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<script src="js/bootstrap.min.js"></script>
+<h3><center>Issue</h3>
+<center><ol>
+	<center><li>Blah the blah blah with the blah</li>
+	<center><li>Place the blah on top of the blah</li>
+	<center><li>Remove the blah blah with the blah</li>
+	<center><li>You have successfully blah'd your blah</li>
 </ol>
+<h4><center>How-to Video displayed below</h4>
+<center><a href="">How to Blah-Blah</a>
+
+<!--Input link to Categories screen below-->
+
+<center><button type="button" class="btn btn-default btn-lg">
+  <span class="glyphicon glyphicon-arrow-left"></span>
+</button>
+<!--Input link to home screen below-->
+<button type="button" class="btn btn-default btn-lg">
+  <span class="glyphicon glyphicon-home"></span>
+</button>
 
 </body>
-</head>
 </html>
