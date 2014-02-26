@@ -8,11 +8,18 @@
 <style type="text/css">
    body { background:#00BFFF; }
 </style>
-<h2><center><font face="century gothic"><b>Easy Fix</b></font></h2>
 
- <center><img src="http://i750.photobucket.com/albums/xx149/andrewbaxter123/fac0f34c-3c42-4804-9fd8-45892f0a697a_zps20a41bd3.gif"/>
-<p><center><button type="button" class="btn btn-default btn-sm">
-  <span class="glyphicon glyphicon-wrench"></span> Let's fix your car!
-</button></p>
+<center><div class="jumbotron">
+  <h1><font face="SAS Monospace Bold" color="#00BFFF"><b>EASY FIX</b></font></h1>
+  <p><font color="#00BFFF">A convenient car fix is just clicks away.</font></p>
+</div>
+
+<h2><center></h2>
+<center><img src="http://i750.photobucket.com/albums/xx149/andrewbaxter123/fac0f34c-3c42-4804-9fd8-45892f0a697a_zps20a41bd3.gif"/>
+<p>  </p>
+<p>  </p>
+<center><div id="browse_app">
+  <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-wrench"></span> Let's fix your car!</a>
+</div>
  </body>
 </html>
