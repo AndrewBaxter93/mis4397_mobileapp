@@ -12,7 +12,8 @@
 
 <script src="js/bootstrap.min.js"></script>
 <center><div class="jumbotron">
-  <h1><font face="SAS Monospace Bold" color="#00BFFF"><b>ISSUE</b></font></h1>
+  <h1><font face="SAS Monospace Bold" color="#00BFFF"><b>TYPE OF ISSUE</b></font></h1>
+  <p><font color="#00BFFF">NAME OF ISSUE</font></p>
 </div>
 
 <center><ul class="list-group"><font face="century gothic"><b>
