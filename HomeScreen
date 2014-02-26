@@ -5,12 +5,12 @@
  <link href="css/bootstrap-glyphicons.css" rel="stylesheet">
  <meta name="viewport" content="width=devicewidth,initial-scale=1.0">
  </head>
- <body>
-  <script src="js/bootstrap.min.js"></script>
- <div class="page-header">
-   <center><h1>EASY FIX</h1>
-</div>
-<center><img src="http://i750.photobucket.com/albums/xx149/andrewbaxter123/EasyFixLogo_zps2e171d03.gif"/>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+<h2><center><font face="century gothic"><b>Easy Fix</b></font></h2>
+
+ <center><img src="http://i750.photobucket.com/albums/xx149/andrewbaxter123/fac0f34c-3c42-4804-9fd8-45892f0a697a_zps20a41bd3.gif"/>
 <p><center><button type="button" class="btn btn-default btn-lg">
   <span class="glyphicon glyphicon-wrench"></span> Let's fix your car!
 </button></p>
