@@ -11,25 +11,30 @@
 </style>
 
 <script src="js/bootstrap.min.js"></script>
-<h2><center><font face="century gothic"><b>Issue</b></font></h2>
-<ol><center>
-	<li>Blah the blah blah with the blah</li>
-	<li>Place the blah on top of the blah</li>
-	<li>Remove the blah blah with the blah</li>
-	<li>You have successfully blah'd your blah</li>
-</ol>
-<h4><center>How-to Video displayed below</h4>
-<center><a href="http://www.youtube.com">How to Blah-Blah</a>
+<center><div class="jumbotron">
+  <h1><font face="SAS Monospace Bold" color="#00BFFF"><b>ISSUE</b></font></h1>
+</div>
 
-<!--Input link to Categories screen below-->
+<center><ul class="list-group"><font face="century gothic"><b>
+  <li class="list-group-item">Step 1: Blah the blah blah with the blah</li>
+  <li class="list-group-item">Step 2: Place the blah on top of the blah</li>
+  <li class="list-group-item">Step 3: Remove the blah blah with the blah</li>
+  <li class="list-group-item">You have successfully blah'd your blah</li>
+</b></ul>
 
-<center><button type="button" class="btn btn-default btn-sm">
-  <span class="glyphicon glyphicon-arrow-left"></span>
-</button>
-<!--Input link to home screen below-->
-<button type="button" class="btn btn-default btn-sm">
-  <span class="glyphicon glyphicon-home"></span>
-</button>
+
+<p><h4><b><center><font face="century gothic">Are you a visual learner? YouTube has the answer!</font></b></h4></p>
+<p><center><div id="browse_app">
+  <a class="btn btn-small btn-default" href="www.youtube.com"><span class="glyphicon glyphicon-facetime-video"> Video Explanation</span></a>
+</div>
+
+<!--HOW DO I MAKE IT TO WHERE IF THEY CLICK BACK IT TAKES THEM BACK TO THE LAST PAGE THEY VISITED?-->
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+
 
 </body>
 </html>
