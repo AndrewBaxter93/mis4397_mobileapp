@@ -5,23 +5,31 @@
 <link href="css/bootstrap-glyphicons.css" rel="stylesheet">
 <meta name="viewport" content="width=devicewidth,initial-scale=1.0">
 </head>
-<body>
+
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+
+
+
 <script src="js/bootstrap.min.js"></script>
-<h3><center>Technical Issues</h3>
+<h2><center><font face="century gothic"><b>Technical Issues</b></font></h2>
 <center><select name="TechIssues">
 <option [value="somevalue 1"]>Technical Issue 1
 <option [value="somevalue 2"]>Technical Issue 2
 <option [value="somevalue 3"] selected>Technical Issue 3
 <option [value="somevalue 4"]>Technical Issue 4
 </select>
-<p><center><button type="button" class="btn btn-default btn-lg">
+<p><center><button type="button" class="btn btn-default btn-sm">
   <span class="glyphicon glyphicon-ok"></span> SUBMIT
 </button>
 
-<p><h4><b><center>We couldn't help you?</b></h4></p>
-<p><center><button type="button" class="btn btn-default btn-lg">
+<p><h4><b><center><font face="century gothic">We couldn't help you?</font></b></h4></p>
+<p><center><button type="button" class="btn btn-default btn-sm">
   <span class="glyphicon glyphicon-plus"></span> LEAVE FEEDBACK
 </button>
+<p>   </p>
 <!--Input link to Categories screen below-->
 
 <center><button type="button" class="btn btn-default btn-lg">
