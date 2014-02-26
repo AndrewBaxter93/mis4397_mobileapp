@@ -14,31 +14,36 @@
 
 
 <script src="js/bootstrap.min.js"></script>
-<h2><center><font face="century gothic"><b>Technical Issues</b></font></h2>
+
+<center><div class="jumbotron">
+  <h1><font face="SAS Monospace Bold" color="#00BFFF"><b>TECHNICAL ISSUES</b></font></h1>
+</div>
+
 <center><select name="TechIssues">
 <option [value="somevalue 1"]>Technical Issue 1
 <option [value="somevalue 2"]>Technical Issue 2
 <option [value="somevalue 3"] selected>Technical Issue 3
 <option [value="somevalue 4"]>Technical Issue 4
 </select>
-<p><center><button type="button" class="btn btn-default btn-sm">
-  <span class="glyphicon glyphicon-ok"></span> SUBMIT
-</button>
+
+<!--Input link to submit form to find which issue is needed-->
+
+
+<p><center><div id="browse_app">
+  <a class="btn btn-small btn-default" href="Steps.html"><span class="glyphicon glyphicon-thumbs-up"> SUBMIT</span></a>
+</div>
+
 
 <p><h4><b><center><font face="century gothic">We couldn't help you?</font></b></h4></p>
-<p><center><button type="button" class="btn btn-default btn-sm">
-  <span class="glyphicon glyphicon-plus"></span> LEAVE FEEDBACK
-</button>
+<p><center><div id="browse_app">
+  <a class="btn btn-small btn-default" href="mailto:andrewbaxter123@gmail.com"><span class="glyphicon glyphicon-plus">LEAVE FEEDBACK</span></a>
+</div>
 <p>   </p>
-<!--Input link to Categories screen below-->
+<a href=“mailto:andrewbaxter123@gmail.com”>
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
 
-<center><button type="button" class="btn btn-default btn-sm">
-  <span class="glyphicon glyphicon-arrow-left"></span>
-</button>
-<!--Input link to home screen below-->
-<button type="button" class="btn btn-default btn-sm">
-  <span class="glyphicon glyphicon-home"></span>
-</button>
 
 </body>
 </html>
