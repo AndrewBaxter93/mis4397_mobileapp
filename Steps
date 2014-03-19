@@ -5,36 +5,31 @@
 <link href="css/bootstrap-glyphicons.css" rel="stylesheet">
 <meta name="viewport" content="width=devicewidth,initial-scale=1.0">
 </head>
-
+<body>
 <style type="text/css">
    body { background:#00BFFF; }
 </style>
 
 <script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
 <center><div class="jumbotron">
-  <h1><font face="SAS Monospace Bold" color="#00BFFF"><b>TYPE OF ISSUE</b></font></h1>
-  <p><font color="#00BFFF">NAME OF ISSUE</font></p>
+  <h1><font color="#00BFFF"><b>NAME OF ISSUE</b></font></h1>
 </div>
 
-<center><ul class="list-group"><font face="century gothic"><b>
-  <li class="list-group-item">Step 1: Blah the blah blah with the blah</li>
-  <li class="list-group-item">Step 2: Place the blah on top of the blah</li>
-  <li class="list-group-item">Step 3: Remove the blah blah with the blah</li>
-  <li class="list-group-item">You have successfully blah'd your blah</li>
-</b></ul>
+<!--Write in the steps-->
 
+<ul class="list-group">
+  <li class="list-group-item">Step 1</a></li>
+  <li class="list-group-item">Step 2</a></li>
+  <li class="list-group-item">Step 3</a></li>
+  <li class="list-group-item">Step 4</a></li>
+  <li class="list-group-item">Step 5</a></li>
+  <li class="list-group-item">Step 6</a></li>
+</ul>
 
-<p><h4><b><center><font face="century gothic">Are you a visual learner? YouTube has the answer!</font></b></h4></p>
-<p><center><div id="browse_app">
-  <a class="btn btn-small btn-default" href="www.youtube.com"><span class="glyphicon glyphicon-facetime-video"> Video Explanation</span></a>
-</div>
-
-<!--HOW DO I MAKE IT TO WHERE IF THEY CLICK BACK IT TAKES THEM BACK TO THE LAST PAGE THEY VISITED?-->
-
-<center><h3><div id="browse_app">
-    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
-</div></h3>
-
+<!--Link the youtube video-->
 
 
 </body>
