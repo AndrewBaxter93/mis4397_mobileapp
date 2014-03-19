@@ -1,5 +1,5 @@
  <!DOCTYPE html>
- <html>
+ <html language="en">
  <head>
  <link href="css/bootstrap.min.css" rel="stylesheet">
  <link href="css/bootstrap-glyphicons.css" rel="stylesheet">
@@ -9,17 +9,20 @@
    body { background:#00BFFF; }
 </style>
 
-<center><div class="jumbotron">
-  <h1><font face="SAS Monospace Bold" color="#00BFFF"><b>EASY FIX</b></font></h1>
-  <p><font color="#00BFFF">A convenient car fix is just clicks away.</font></p>
-</div>
 
+<center><div class="jumbotron" id="Ford">
+<header class="container">
+  <h1><font color="#00BFFF"><b>EASY FIX</b></font></h1>
+</div>
+<p><font color="#FFFFFF">The most convenient way to fix your Ford vehicle.</p>
+<p><font color="#FFFFFF">Your wallet will thank you.</p>
 <h2><center></h2>
 <center><img src="http://i750.photobucket.com/albums/xx149/andrewbaxter123/fac0f34c-3c42-4804-9fd8-45892f0a697a_zps20a41bd3.gif"/>
 <p>  </p>
 <p>  </p>
-<center><div id="browse_app">
-  <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-wrench"></span> Let's fix your car!</a>
-</div>
+<ul class="pager">
+  <li><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/Categories.html">Start fixing!</a></li>
+
+</ul>
  </body>
 </html>
