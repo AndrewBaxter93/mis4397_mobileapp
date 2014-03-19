@@ -5,8 +5,7 @@
 <link href="css/bootstrap-glyphicons.css" rel="stylesheet">
 <meta name="viewport" content="width=devicewidth,initial-scale=1.0">
 </head>
-
-
+<body>
 <style type="text/css">
    body { background:#00BFFF; }
 </style>
@@ -15,35 +14,20 @@
 
 
 <center><div class="jumbotron">
-  <h1><font face="SAS Monospace Bold" color="#00BFFF"><b>PHYSICAL ISSUES</b></font></h1>
+  <h1><font color="#00BFFF"><b>PHYSICAL ISSUES</b></font></h1>
 </div>
 
-
-<center><select name="PhysIssues">
-<option [value="somevalue 1"]>Physical Issue 1
-<option [value="somevalue 2"]>Physical Issue 2
-<option [value="somevalue 3"] selected>Physical Issue 3
-<option [value="somevalue 4"]>Physical Issue 4
-</select>
-
-<!--Input link to submit form to find which issue is needed-->
-
-<p><center><div id="browse_app">
-  <a class="btn btn-small btn-default" href="Steps.html"><span class="glyphicon glyphicon-thumbs-up"> SUBMIT</span></a>
-</div>
-
-<p><h4><b><center><font face="century gothic">We couldn't help you?</font></b></h4></p>
-<p><center><div id="browse_app">
-  <a class="btn btn-small btn-default" href="mailto:andrewbaxter123@gmail.com"><span class="glyphicon glyphicon-plus">LEAVE FEEDBACK</span></a>
-</div></h3>
-<p>  </p>
-
+<ul class="list-group">
+  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelA.html">Issue A</a></li>
+  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelB.html">Issue B</a></li>
+  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelC.html">Issue C</a></li>
+  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelD.html">Issue D</a></li>
+  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelE.html">Issue E</a></li>
+</ul>
 
 <center><h3><div id="browse_app">
-        <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
 </div></h3>
-
-
 
 </body>
 </html>
