@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO CHANGE YOUR OIL</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Lift your car. Use either jacks or ramps. On a flat even surface, place the parking brake on and jack your car up, bracing it with jack stands.</a></li>
+  <li class="list-group-item">2.) Let car heat up a bit to get the oil warm. 2 or 3 minutes of idling should be sufficient to get the oil churned up a bit so it will drain more quickly. </a></li>
+  <li class="list-group-item">3.) Open the hood and locate the oil cap on top of the engine. This is where you'll add oil after you're done draining the old oil.</a></li>
+</ul>
+<h2>Are you a visual learner?</h2>
+<h2>Click the arrow button below for a demonstration via YouTube!</h2>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=rYWcL76WMRg"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
