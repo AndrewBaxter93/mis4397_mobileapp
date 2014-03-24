@@ -17,15 +17,18 @@
   <h1><font color="#00BFFF"><b>CATEGORIES</b></font></h1>
 </div>
 
+<h1>Choose between the two categories:</h1>
+
 <table border="0"><tr><td>
-<p><center><span class="glyphicon glyphicon-cog"></span><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/TechnicalIssues.html"><font color="white"><b> Technical Issues</font></a></p>
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/TechnicalIssues.html">TECHNICAL ISSUES</a>
+</div></h3>
 <p><center><h5><i>"How it works"</i></h5></p></tr><tr>
 
-<p><center><span class="glyphicon glyphicon-picture"></span><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/PhysicalIssues.html"><font color="white"><b> Physical Issues</font></a></p>
-<p><center><i><h5>"How it looks"</i></h5></p></tr><tr>
-
-<p><center><span class="glyphicon glyphicon-volume-up"></span><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/AudioIssues.html"><font color="white"><b>Audio Issues</font></a></p>
-<p><center><i><h5>"How it sounds"</i></h5></b></p></tr>
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/PhysicalIssues.html">PHYSICAL ISSUES</a>
+</div></h3>
+<p><center><i><h5>"How it looks"</i></h5></p></tr></td>
 
 
 </body>
