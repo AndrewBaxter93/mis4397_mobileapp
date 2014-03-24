@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO CHANGE YOUR BRAKE LIGHTS</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) The bulbs for all of your red, white and yellow lights are hidden behind a colored lens.  First you need to remove the lens housing from the car. It's usually held in place with a few Phillips-head screws.</a></li>
+  <li class="list-group-item">2.) Now that you have the screws out and safely stowed you can pull the entire bulb assembly, or housing, out of its hole. Most assemblies will pull out as a whole, but some have a removable outer cover.</a></li>
+  <li class="list-group-item">3.) The bulbs in your brake light or tail light assembly are held in place using a plug that holds the bulb that also screws into the light assembly. Follow the wires to the back of the light that you need to replace. It only takes a quarter turn or so to unseat it and pull it out.</a></li>
+  <li class="list-group-item">4.) Finally! You can see the light (or lack thereof) at the end of the tunnel, a dead bulb. Your bulb either pulls straight out (most do these days) or requires a quarter turn twist like the bulb holder did. Remove the bad bulb and put the new one in.</a></li>
+</ul>
+<h2>Are you a visual learner?</h2>
+<h2>Click the arrow button below for a demonstration via YouTube!</h2>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=9Kx_hZVJSoI"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
