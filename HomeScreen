@@ -9,8 +9,8 @@
    body { background:#00BFFF; }
 </style>
 
-
-<center><div class="jumbotron" id="Ford">
+<body>
+<center><div class="bg"></div><div class="jumbotron" id="Ford">
 <header class="container">
   <h1><font color="#00BFFF"><b>EASY FIX</b></font></h1>
 </div>
