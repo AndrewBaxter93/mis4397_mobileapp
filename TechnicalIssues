@@ -18,13 +18,11 @@
 <center><div class="jumbotron">
   <h1><font color="#00BFFF"><b>TECHNICAL ISSUES</b></font></h1>
 </div>
-
+<h1>Select your issue:</h1>
 <ul class="list-group">
-  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelA.html">Issue A</a></li>
-  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelB.html">Issue B</a></li>
-  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelC.html">Issue C</a></li>
-  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelD.html">Issue D</a></li>
-  <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/ModelE.html">Issue E</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/BrakePads.html">Change Your Brake Pads</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/BrakeLights.html">Change Your Brake Lights</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/OilChange.html">Change Your Oil</a></li>
 </ul>
 
 <p>   </p>
