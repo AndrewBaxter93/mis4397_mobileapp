@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>REMOVING SCRATCHES OFF OF CAR EXTERIOR</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Determine if the scratch is actually a scratch:
+  <p>Many times what appears to be a scratch is actually a raised line of material from an impact. This occurs when your car contacts another bumper or any object whose coating is softer than your car paint. These imperfections require much less work to remove.</p></a></li>
+  <li class="list-group-item">2.) Establish the depth of the scratch:
+  <p>Your car has 4 main layers: clear coat, color, primer and steel. If the scratch is only as deep as the clear coat or color, it will be much easier to remove. If you can see a different color or steel, the scratch is deep and might not be able to be repaired.</p></a></li>
+  <li class="list-group-item">3.) Prepare the vehicle:
+  <p>Wash and dry the car thoroughly. If the car is dirty during scratch repair, more scratches can be created.
+  <p>Spray the scratched area with water.</p></a></li>
+  <li class="list-group-item">4.) Sand the scratch:
+  <p>Wrap 2000-grit sandpaper around a sanding pad and begin sanding in the direction of the scratch (usually horizontally).
+  <p>Periodically rinse the area with water.
+  <p>If the scratch is deeper than the clear coat, use 1500-grit sandpaper initially to level the surface and then 2000-grit sandpaper to remove the scratches made by the coarser sandpaper.
+  </a></li>
+  <li class="list-group-item">5.) Polish the area:
+  <p>Apply rubbing compound to the scratched areas.
+  <p>With a buffer pad, spread the compound around the area that is dull from sanding. Do not turn the buffer on yet.
+  <p>Turn the buffer on its lowest level and move it around for approximately 10 seconds.
+  <p>Increase the speed to 2000 RPM and buffer for 1 minute. You should be moving the buffer from side to side and then moving downward slowly.
+  <p>Continue until the dullness has faded. This might take up to 5 minutes depending on the scratch and your speed.</p></a></li>
+  <li class="list-group-item">6.)Wash the area:
+  <p>Use clean water and a towel to remove the leftover compound residue from the paint surface</p></a></li>
+   <li class="list-group-item">7.) Apply car wax to your vehicle to seal the paint.</a></li>
+
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h2>Click the arrow button below for a demonstration via YouTube!</h2>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=sR8fvRmIprA"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
