@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO CHANGE YOUR BRAKE PADS</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Buy the correct break pads from a local auto parts store. Let them know the year, make, and model of your vehicle.</a></li>
+  <li class="list-group-item">2.) Loosen the lug nuts on the tire using the lug wrench about two-thirds of the way.</a></li>
+  <li class="list-group-item">3.)Using a jack, lift the car up so the wheel can be removed easily.
+<p>•Important: place a block of wood (or other sturdy object) under the frame of the vehicle and behind the other wheels.</p></a></li>
+  <li class="list-group-item">4.) Continue to loosen the lug nuts until completely removed. Pull the wheel straight out to remove it.</a></li>
+  <li class="list-group-item">5.) Remove the caliper by removing the caliper bolts with a socket wrench.  Then rest the caliper on a surface or gently hang it by using a wire.</a></li>
+<li class="list-group-item"></a>6.) Remove the old break pads.  Remember how each pad is aligned and how they each fit.  Use force if needed.</li>
+<li class="list-group-item"></a>7.) Attach the new break pads in the exact way the old ones were attached.</li>
+<li class="list-group-item"></a>8.) Check the brake fluid level.  Add fluid if necessary.</li>
+<li class="list-group-item"></a>9.) Slowly put the caliper back on, making sure not to damage anything.  Tighten the bolds to secure it into place.</li>
+<li class="list-group-item"></a>10.) Re-attach the wheel and tighten the lug nuts in a star pattern.</li>
+<li class="list-group-item"></a>11.) Start the vehicle and pump the breaks 15-20 times while in neutral.</li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h2>Click the arrow button below for a demonstration via YouTube!</h2>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=Lpb3Zms1_eM"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
