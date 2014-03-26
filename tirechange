@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO CHANGE A TIRE</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.)Locate your jack in the back of the driver or passenger seat or in the trunk.</a></li>
+  <li class="list-group-item">2.)Remove the plastic lug caps or wheel cover, if your vehicle is equipped with them. Pry them off using a screwdriver or the tapered end of the lug wrench.</a></li>
+  <li class="list-group-item">3.)Block the wheels using wood blocks, bricks or stones. Set the transmission in Park (automatic) or Reverse (manual) and apply the emergency brakes. <p>Loosen the wheel lugs on the flat tire about one turn counterclockwise using the lug wrench and working in a crisscross pattern.</p> 
+  <p>If the lugs seem difficult to remove, inset the lug wrench with the bar in a horizontal position and use your foot to step on the lug wrench to force the lugs loose. Do not remove the lugs yet.</p></a></li>
+  <li class="list-group-item">4.) Place the jack under the notch in the rocker panel flange near the tire you need to change. Adjust the jack's height until if fits in the notch. If you are using a floor jack, place it under a side rail frame or suspension arm bracket.</a></li>
+  <li class="list-group-item">5.) Operate the jack handle until the flat tire has risen off the floor sufficiently and there is enough room for the replacement tire to fit in. Remove the wheel lugs using the lug wrench. Remove the flat tire. If the tire seem to be stuck on the hub studs after removing the lugs</a></li>
+  <li class="list-group-item">6.) Locate and remove the spare tire from the back of the pickup truck or under the truck bed. Set the spare in place and install the lugs with the bevel side facing in. Tighten the lugs just enough to set the tire firmly in place.</a></li>
+  <li class="list-group-item">7.) Lower the vehicle, remove the jack and finish tightening the wheel lugs using a crisscross pattern. Put the flat tire in the back of the truck and store the jack in its place. Remove the blocks from the tires and turn off the hazard lights.</a></li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h4>Click the button below for a demonstration via YouTube!</h4>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=joBmbh0AGSQ"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
