@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO REPLACE HEAD LIGHT</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Remove the front grill. Depending upon the year and model of your car, you may need to remove your vehicle’s front grill. This can be done by removing the screws from the top or sides of the grill.</a></li>
+  <li class="list-group-item">2.) Remove the screws that secure the headlight assembly to the vehicle. These screws are usually located on the top and bottom of the headlight.</a></li>
+  <li class="list-group-item">3.) Unplug the wiring from the back of the headlight assembly. Then, gently pull the old headlight assembly from the vehicle and set it aside.</a></li>
+  <li class="list-group-item">4.) Replace the headlight assembly by inserting the new assembly into place and replacing the screws. Plug the wiring into the back of the headlight assembly and screw the assembly back into the vehicle.</a></li>
+  <li class="list-group-item">5.) Insert the grill back into place and replace the screws to hold it in place.</a></li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h4>Click the button below for a demonstration via YouTube!</h4>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=lzD1GGtTHQw"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
