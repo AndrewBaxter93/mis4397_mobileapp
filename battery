@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO REPLACE YOUR BATTERY</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Raise the hood, put on your safety glasses and locate the automotive battery.</a></li>
+  <li class="list-group-item">2.) Disconnect the negative battery cable, using the battery terminal wrench to loosen the cable end from the battery terminal. Pull the negative cable off and away from the battery.</a></li>
+  <li class="list-group-item">3.) Disconnect the positive battery cable in the same manner you employed in Step 2 on the negative cable.</a></li>
+  <li class="list-group-item">4.) Use the socket set to unbolt the battery hold-down hardware. You will need the extension to reach the bolt inside the battery tray. Move the hold-down hardware off to the side and carefully lift the battery up and out of the vehicle.</a></li>
+  <li class="list-group-item">5.) Insert the new battery in the same position and orientation the old one had prior to removal.</a></li>
+  <li class="list-group-item">6.) Reinstall the hold-down hardware in reverse of how it was removed.</a></li>
+  <li class="list-group-item">7.) Reconnect the positive battery cable and then the negative cable in reverse of how they were removed.</a></li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h4>Click the button below for a demonstration via YouTube!</h4>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=rahugsPQS4k"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
