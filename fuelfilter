@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO REPLACE FUEL FILTER</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Put on your protective glasses and gather your tools. An assortment of wrenches and screwdrivers are necessary. The ones you use will depend upon the vehicle.</a></li>
+  <li class="list-group-item">2.) Elevate the vehicle. This can be done by using a jack and jack stands, or drive-up ramps. Do not rely solely on a single jack, as this is very dangerous.</a></li>
+  <li class="list-group-item">3.) Find the fuel filter. The location varies from vehicle to vehicle. It's a safe bet to start your search near the fuel tank under the body. You can also reference your owner's manual or call your local dealership.</a></li>
+  <li class="list-group-item">4.) Remove the protective covering that guards the fuel filter. Most filters have some kind of plastic covering over them to prevent damage, and can be removed by a common wrench, hex wrench, or screwdriver.</a></li>
+  <li class="list-group-item">5.) Remove the fuel lines attached to the fuel filter. There are a number of ways these hoses might be linked to the pump, such as links, brackets or clips. Use either a screwdriver or wrench, whichever the attachments require.</a></li>
+  <li class="list-group-item">6.) Cap the fuel lines with a pencil or golf  tee, and keep them tilted toward the drainage canister.</a></li>
+  <li class="list-group-item">7.) Remove the fuel filter from the assembly, noting which way it was oriented. An arrow will likely be on the filter. It should be pointed toward the engine, and away from the fuel tank.</a></li>
+  <li class="list-group-item">8.) Install you new fuel filter. Be sure that it is oriented so the fuel arrow points toward the engine.</a></li>
+  <li class="list-group-item">9.)Reattach the hoses and guard.</a></li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h4>Click the button below for a demonstration via YouTube!</h4>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=aYFlvCDO8_c"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
