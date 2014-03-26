@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO CHECK TIRE PRESSURE</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Choose the tire gauge or the model of tire pressure monitor kit that meets the needs of your Ford. Most monitor companies offer kits ranging from family vans, high performance autos, RVs and 18-wheelers. You may, of course, also purchase an inexpensive tire gauge to check the air pressure in your Ford.</a></li>
+  <li class="list-group-item">2.) Have the tire pressure monitor kit professionally installed or get out your tire gauge. There are several sensitive instruments and components that give you the ability to monitor and adjust your tire's pressure with a kit that will not properly function if installed incorrectly.</a></li>
+  <li class="list-group-item">3.) Enter Ford when prompted by the controller to enter your make of automobile on your kit. Enter your model. Enter your year of your car when asked to do so. The computer will automatically know your car's optimum pressure.</a></li>
+  <li class="list-group-item">4.) Check the air pressure in your Ford by cycling through the tires on your kit or by placing the knob of your tire gauge on your tire valve stems and checking the reading.</a></li>
+  <li class="list-group-item">5.) Inflate or deflate the tire accordingly by using the simple up and down keys on the main controller of your kit. You may also use a tire air compressor to inflate your tires to the proper pressure levels. Ford recommends that a mustang, for example, maintains tire pressure levels of 26 to 34 psi.</a></li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h4>Click the button below for a demonstration via YouTube!</h4>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=cMftr9Ua7AY"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
