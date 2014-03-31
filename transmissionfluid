@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO CHANGE TRANSMISSION FLUID</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Lift the car with a jack or car ramps.</a></li>
+  <li class="list-group-item">2.) Locate the transmission fluid pan.  It should be directly under the transmission with 6 to 8 bolts holding it in place.</a></li>
+  <li class="list-group-item">3.) Drain the fluid.  If the oil pan has a drain plug, remove the plug to drain the fluid into a pan.  If there is no drain plug, you will have to remove the entire pan.  Using the latter method is the only way to change the transmission filter if need be.  </a></li>
+  <li class="list-group-item">4.) After draining, replace drain plug or entire pan and lower the vehicle.</a></li>
+  <li class="list-group-item">5.) Locate the transmission fluid dipstick.  It usually has an image of a lock, and is NOT labeled “Oil” or “Engine Oil”.</a></li>
+  <li class="list-group-item">6.) Add new Motorcraft fluid in the spout.</a></li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h4>Click the button below for a demonstration via YouTube!</h4>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=MsdPAadc9fY"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
