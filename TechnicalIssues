@@ -20,17 +20,25 @@
 </div>
 <h1>Select your issue:</h1>
 <ul class="list-group">
-   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/BrakePads.html">Change Your Brake Pads</a></li>
-   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/BrakeLights.html">Change Your Brake Lights</a></li>
-   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/OilChange.html">Change Your Oil</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/brakepads.html">Change Your Brake Pads</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/brakelights.html">Change Your Brake Lights</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/oilchange.html">Change Your Oil</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/sparkplugs.html">Replace Spark Plugs</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/transmissionfluid.html">Change Transmission Fluid</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/wiperblades.html">Change Your Wiper Blades</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/airfilter.html">Replace Air Filter</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/battery.html">Replace Your Battery</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/wiperblades.html">Replace Your Fuel Filter</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/headlight.html">Replace Headlight</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/muffler.html">Replace Your Muffler</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/tirechange.html">Change Your Tire</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/tirepressure.html">Check Tire Pressure</a></li>
+   <li class="list-group-item"><a href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/muffler.html"></a></li>
 </ul>
 
 <p>   </p>
 <a href=“mailto:andrewbaxter123@gmail.com”>
 <center><h3><div id="browse_app">
-    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
 </div></h3>
 
-
-</body>
-</html>
