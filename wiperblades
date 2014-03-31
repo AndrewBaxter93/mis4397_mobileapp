@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>HOW TO CHANGE WIPER BLADES</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Locate the rubber part of the wiper blade and buy the replacement for the blade.  <p>You will need to measure the old rubber blades to refer to at the auto parts store.</a></li>
+  <li class="list-group-item">2.) Raise the metal wiper arm away from the windshield.  It should hold steady near <p>perpendicular to the windshield.</a></li>
+  <li class="list-group-item">3.) There should be a small plastic stopper where the rubber wiper meets the metal <p>arm.  Press the stopper and unhook the old rubber blade from the metal arm</a></li>
+  <li class="list-group-item">4.) Slide the new wiper into the same end of the arm that you pulled the old wiper out <p>of.  Pivot the wiper until it snaps into place and lay the metal arm back against the <p>windshield.</a></li>
+  <li class="list-group-item">5.) Repeat for the other wiper.</a></li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h4>Click the button below for a demonstration via YouTube!</h4>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=mFo1bDbbLKw"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
