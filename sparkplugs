@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<meta name="viewport" content="width=devicewidth,initial-scale=1.0">
+</head>
+<body>
+<style type="text/css">
+   body { background:#00BFFF; }
+</style>
+
+<script src="js/bootstrap.min.js"></script>
+
+<!--Input the Issue Name, such as Oil Change-->
+
+<center><div class="jumbotron">
+  <h1><font color="#00BFFF"><b>REPLACING SPARK PLUGS</b></font></h1>
+</div>
+
+<!--Write in the steps-->
+
+<ul class="list-group">
+  <li class="list-group-item">1.) Locate the spark plugs.
+<p>•	On a 4-cylinder engine, spark plugs will be located on the top or side of the engine in a row.
+<p>•	On an inline 6-cylinder, located on the top or side of the engine head, on V6 and V8-cylinder engines, plugs should be separated evenly on each side of the engine.
+</a></li>
+  <li class="list-group-item">2.) Let the engine cool before working on vehicle.
+<p>You will need a ratchet socket wrench, extension bar, spark plug socket attachment, and a spark gap gauge.
+</a></li>
+  <li class="list-group-item">3.) Remove the first spark plug.  Pull the wire plug from the engine by gripping it near the bottom to reveal the spark plug.  Fit your socket wrench with the extension bar and use the ratchet to remove the spark plug.
+<p>•	Make sure you keep track of the order in which you remove the plugs, and place them in the exact same order.
+<p>•	When checking to see if you need new spark plugs, remove one spark plug and check the gap.  If it looks burnt out, get new ones.
+</a></li>
+  <li class="list-group-item">4.) Measure the gap of the spark plug.  Use a gap checker or feeler gauge to check the distance.</a></li>
+  <li class="list-group-item">5.) Buy replacement plugs.  Check your local auto parts store and buy the plug that corresponds to your vehicle.</a></li>
+  <li class="list-group-item">6.) Insert the new plugs and tighten them with a ratchet.  Be careful not to over-tighten the plug. Only go 1/8th of a turn past hand-tight.</a></li>
+</ul>
+
+<h2>Are you a visual learner?</h2>
+<h4>Click the button below for a demonstration via YouTube!</h4>
+<h5>***Note that the steps used in the video may differ from the steps given in our app***</h5>
+
+<ul class="pager">
+  <li><a href="https://www.youtube.com/watch?v=asUYFy-7loA"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
+
+<center><h3><div id="browse_app">
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
+</div></h3>
+
+</body>
+</html>
