@@ -34,7 +34,7 @@
 <ul class="pager">
   <li><a href="https://www.youtube.com/watch?v=9Kx_hZVJSoI"><span class="glyphicon glyphicon-arrow-right"></span></a></li>
 <center><h3><div id="browse_app">
-    <a class="btn btn-small btn-default" href="Categories.html"><span class="glyphicon glyphicon-home"></span></a>
+    <a class="btn btn-small btn-default" href="categories.html"><span class="glyphicon glyphicon-home"></span></a>
 </div></h3>
 
 </body>
