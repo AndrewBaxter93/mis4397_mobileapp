@@ -1,8 +1,13 @@
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
 <link href="css/bootstrap.min.css" rel="stylesheet">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 <link href="css/bootstrap-glyphicons.css" rel="stylesheet">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
 <meta name="viewport" content="width=devicewidth,initial-scale=1.0">
 </head>
 
@@ -21,12 +26,12 @@
 
 <table border="0"><tr><td>
 <center><h3><div id="browse_app">
-    <a class="btn btn-small btn-default" href="file:///C:/Users/anbaxter/Documents/bootstrap-3.1.1-dist/TechnicalIssues.html">TECHNICAL ISSUES</a>
+    <a class="btn btn-small btn-default" href="interior.html">INTERIOR FIXES</a>
 </div></h3>
 <p><center><h5><i>"How it works"</i></h5></p></tr><tr>
 
 <center><h3><div id="browse_app">
-    <a class="btn btn-small btn-default" href="physicalissues.html">PHYSICAL ISSUES</a>
+    <a class="btn btn-small btn-default" href="exterior.html">EXTERIOR FIXES</a>
 </div></h3>
 <p><center><i><h5>"How it looks"</i></h5></p></tr></td>
 
